@@ -34757,18 +34757,27 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 68px;
+  min-height: 173px;
 }
 
 .u-header .u-text-1 {
   font-size: 4.5rem;
   font-family: "Roboto Slab", serif;
-  margin: -11px -358px 0 358px;
+  margin: 5px -384px 0 384px;
+}
+
+.u-header .u-text-2 {
+  width: 181px;
+  margin: 25px auto 39px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-header .u-text-2 {
+    width: 181px;
   }
 }
 
